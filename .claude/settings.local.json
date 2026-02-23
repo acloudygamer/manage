@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__my-github__search_repositories",
+      "mcp__my-github__list_commits"
+    ]
+  }
+}
